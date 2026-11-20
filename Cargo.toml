@@ -1,5 +1,5 @@
 [workspace]
-members = ["tcp_client","tcp_server"]
+members = ["tcp_client","tcp_server", "threads"]
 
 resolver = "2"
 
