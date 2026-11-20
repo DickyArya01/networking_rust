@@ -1,0 +1,6 @@
+[workspace]
+members = ["tcp_client","tcp_server"]
+
+resolver = "2"
+
+[workspace.dependencies]
